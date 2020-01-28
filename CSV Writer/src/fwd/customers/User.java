@@ -28,6 +28,7 @@ public class User {
 	}
 	
 	public static String[] getFields() {
+		//test
 		String [] fields = {"name","last name","age","salary"};
 		return fields;
 	}
